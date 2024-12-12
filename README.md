@@ -1,16 +1,43 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**MyNameIsOak/MyNameIsOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  👋 Hi, I’m @MyNameIsOak!
+
+ </h1>
+
+</div>
+
+
+
+
+
+
+
+### :woman_technologist: About Me :
+
+👀 About me: I am a student at University of South Wales studying Computer Science!
+
+<br>
+
+🌱 What I am doing: Learning a variety of topics from Programming in C++ to writing SQL
+
+<br>
+
+💞️ Skillset: I have studied Python, HTML and C++
+
+<br>
+
+📫 Recent Projects Completed: Average test score calculator using a standard array in C++
+
+<br>
+
+🌱 Hobbies: In my spare time I enjoy playing video games and reading.
+
+
+
+---
+
+
+
